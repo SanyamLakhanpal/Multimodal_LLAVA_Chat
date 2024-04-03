@@ -21,6 +21,7 @@ pipe = pipeline("image-to-text",
                 model=model_id,
                 model_kwargs={"quantization_config": quantization_config})
 
+@cached()  # Use default LRU_CACHE_SIZE and LRU_CACHE_TTL
 def img2txt(input_text: Union[str, Tuple], input_image: str) -> str:
     """Generate image description using GPT."""
     # Load the image
