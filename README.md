@@ -1,4 +1,5 @@
-![Alt text](assets/chat_llava.png "Optional title")
+<img src="assets/chat_llava.png" alt="Alt text" title="Optional title" width="500" height="500">
+
 
 # 🖼️ Multimodal_LLAVA_Chat- Image Processing Application 🎙️
 
