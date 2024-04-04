@@ -1,3 +1,5 @@
+![Alt text](assets/chat_llava.png "Optional title")
+
 # 🖼️ Multimodal_LLAVA_Chat- Image Processing Application 🎙️
 
 This application allows users to describe an image using voice input, and then generates a detailed description of the image using multimodal LLAVA model. It also provides a text-to-speech audio response based on the generated description.
