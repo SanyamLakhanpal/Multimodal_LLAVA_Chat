@@ -1,7 +1,7 @@
 <img src="assets/chat_llava.png" alt="Alt text" title="Optional title" width="500" height="500">
 
 
-# 🖼️ Multimodal_LLAVA_Chat- Image Processing Application 🎙️
+# 🖼️ Multimodal LLAVA Chat - Image Processing Application 🎙️
 
 This application allows users to describe an image using voice input, and then generates a detailed description of the image using multimodal LLAVA model. It also provides a text-to-speech audio response based on the generated description.
 
